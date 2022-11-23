@@ -1,0 +1,174 @@
+html{
+  scroll-behavior: smooth;
+}
+
+.App{
+  background-color: #ffffff;
+}
+
+
+
+body {
+  font-family: "Roboto Mono", monospace;
+  min-height: 400px;
+}
+
+.header {
+  width:100%;
+  margin-bottom: 30px;
+  display: inline-flex;
+  position: fixed;
+  background-color: #ffffff;
+}
+
+.logoimg
+{
+  width: 150px;
+  height: 45px;
+  margin-right: 700px;
+  margin-left: 45px;
+}
+
+a {
+  height: 30px;
+  font-size: 15px;
+  border: 2px solid black;
+  border-radius: 12px;
+  background-color: #213140;
+  padding: 2px 4px 2px 4px;
+  margin-left: 5px;
+  margin-top: 30px;
+  text-decoration:none;
+  color: #ffffff;
+}
+
+.reger{
+  padding-top: 100px;
+  background: #6dd893;
+  height: 430px;
+}
+
+img{
+  height: 400px;
+  padding: 10px 10px 10px;
+  display: inline-flex;
+  padding-top: 20px;
+}
+h1{
+  text-align: justify;
+  font-size: larger;
+  margin-top: 40px;
+}
+
+.projeto {
+  clear: both;   
+  display: inline-flex;
+  align-content: space-between;
+}
+
+.textoProjeto{
+  font-size: 19px;
+  margin-right: 50px;
+}
+
+.comoFazemos {
+  clear: both;
+  background: #347355;
+  height: 330px;
+  padding: 10px 10px 5px 20px;
+}
+
+.textoComoFazemos{
+  width: 47%;
+  display: inline-flex;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.ondeEstamos {
+  clear: both;
+  background: #ffffff;
+  height: 650px;
+  padding: 20px 15px 15px 30px;
+  color: #213140;
+  background-repeat:space;
+}
+
+.textoOndeEstamos{
+  width: 97%;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: 17px;
+}
+
+.ondeEstamosImg{
+  margin-left: 430px;
+  height: 350px;
+  width: 350px;
+}
+
+.dicas {
+  clear: both;
+  background: #239857;
+  height: auto;
+  padding: 20px 15px 15px 30px;
+}
+
+.imgDicas
+{
+  height: 300px;
+  width: 400px;
+  display: inline-flex;
+  margin-right: 30px;
+}
+
+.textoDicas{
+  width: auto;
+  display: inline-flex;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-right: 15px;
+
+}
+ 
+h2{
+  margin-top: 50px;
+}
+
+.textoDicasPilha{
+  display: inline-flex;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-right: 10px;
+
+}
+
+.imgPilha
+{
+  height: 300px;
+  width: 450px;
+  margin-left: 150px;
+  margin-right: 50px;
+}
+
+footer{
+  background-color: #213140;
+  justify-content: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  
+}
+
+h3
+{
+  margin-left: 250px;
+}
+
+.imgLogoBranco{
+  height: 30px;
+  width: 150px;
+}
+.footer{
+  display: inline-flex;
+  margin-left: 250px;
+}
